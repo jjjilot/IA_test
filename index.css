@@ -23,7 +23,7 @@ a {
 }
 div {
     position: fixed;
-    left: 0px;
+    /*left: 0px;*/
     width: 150px;
     top: 0px;
     height: 1000px;
