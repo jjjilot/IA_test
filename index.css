@@ -54,8 +54,8 @@
   }
 
   .sidenav a {
-      padding: 6px 8px 6px 16px;
-      text-decoration: none;
+      padding: 24px 8px 6px 16px;
+      text-decoration: underline;
       font-size: 30px;
       color: #333;
       display: block;
