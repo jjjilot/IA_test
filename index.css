@@ -1,7 +1,7 @@
   header {
       font-family: "Arial Black", Gadget, sans-serif;
       font-size: 30px;
-      color: #432012;
+      color: #333;
       text-align: center;
       margin-right: 2%;
       margin-left: 2%;
@@ -48,7 +48,7 @@
       z-index: 1;
       top: 0;
       left: 0;
-      background: #444;
+      background: #db3737;
       overflow-x: hidden;
       padding-top: 20px;
   }
@@ -56,8 +56,8 @@
   .sidenav a {
       padding: 6px 8px 6px 16px;
       text-decoration: none;
-      font-size: 25px;
-      color: #EBEBEB;
+      font-size: 30px;
+      color: #333;
       display: block;
   }
 
