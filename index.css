@@ -55,14 +55,14 @@
 
   .sidenav a {
       padding: 24px 8px 6px 16px;
-      text-decoration: underline;
+      text-decoration: none;
       font-size: 30px;
       color: #333;
       display: block;
   }
 
   .sidenav a:hover {
-      color: #AFCEFF;
+      text-decoration: underline;
   }
 
   img {
