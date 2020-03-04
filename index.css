@@ -21,7 +21,7 @@
 
   body {
       background-color: #FFF;
-      color: #009933;
+      color: #333;
       font-family: Gill Sans, sans-serif, sans-serif;
       margin-right: 12%;
       margin-left: 12%;
@@ -33,12 +33,12 @@
   }
 
   div {
-      position: fixed;
+
       left: 0px;
       width: 150px;
       top: 0px;
       height: 1000px;
-      background-color: #3A405A;
+      background-color: #FFF;
   }
 
   .sidenav {
@@ -72,5 +72,21 @@
   }
 
   button {
-      margin-left: 2%;
+      width: 155px;
+  }
+
+  .form {
+      margin: 0 auto;
+      width: 160px;
+      height: auto;
+  }
+
+  .form label {
+      display: inline-block;
+      text-align: left;
+  }
+
+  .form input {
+      display: inline-block;
+      text-align: left;
   }
